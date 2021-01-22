@@ -1,2 +1,1 @@
-# projects
-Study Projects
+# Study Projects
